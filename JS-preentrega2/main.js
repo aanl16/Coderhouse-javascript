@@ -1,7 +1,7 @@
 // Preentrega 2 //
 
 // Array de objetos con productos
-let productos = [
+const productos = [
     { nombre: "Leche", precio: 5 },
     { nombre: "Arroz", precio: 10 },
     { nombre: "Cebolla", precio: 2 },
