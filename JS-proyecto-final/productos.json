@@ -1,0 +1,9 @@
+[
+    { "nombre": "Tomate", "precio": 1 },
+    { "nombre": "Cebolla", "precio": 0.5 },
+    { "nombre": "Arroz", "precio": 2 },
+    { "nombre": "Leche", "precio": 1.5 },
+    { "nombre": "Pollo", "precio": 5 },
+    { "nombre": "Carne", "precio": 7 },
+    { "nombre": "Chocolate", "precio": 3 }
+]
